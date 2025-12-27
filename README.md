@@ -4,6 +4,9 @@
 An interactive pathfinding visualizer built with Python and Pygame that demonstrates how A* and Dijkstra’s Algorithm work on a grid-based environment.
 Users can place start/end nodes, draw obstacles, and watch each algorithm explore the grid in real time.
 
+Live Demo:
+https://drive.google.com/file/d/1cdG5n9Tfbrzkif2Qri5c4E9hKwsNz9wa/view?usp=sharing
+
 
 **Features**
 
